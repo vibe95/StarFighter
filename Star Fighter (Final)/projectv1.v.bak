@@ -1,0 +1,4 @@
+module projectv1 (SW,KEY,LEDG,LEDR);
+
+
+endmodule
